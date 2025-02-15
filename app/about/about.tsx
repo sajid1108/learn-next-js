@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect } from 
+import { useState, useEffect } from "react";
 
 export function About() {
   const [value, setValue] = useState<string>("");
